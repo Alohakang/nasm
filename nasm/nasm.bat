@@ -1,0 +1,1 @@
+G:\nasm\nasm -f bin G:\nasm\Work\test.asm -o G:\nasm\Work\test.bin

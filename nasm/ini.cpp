@@ -36,5 +36,4 @@ string ini::getbinPath()
 
 ini::~ini()
 {
-	
 }

@@ -147,6 +147,9 @@
     <ClInclude Include="bat.h" />
     <ClInclude Include="ini.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="nasm.ini" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

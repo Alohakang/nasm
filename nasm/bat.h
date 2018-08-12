@@ -11,9 +11,12 @@ private:
 	string nasmPath;
 	string asmPath;
 	string binPath;
+	string order;
+	string getName();
 public:
-	bat();
-
+	bat();	
+	void wbat();
+	string getOrder();
 	~bat();
 };
 
